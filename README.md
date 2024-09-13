@@ -1,7 +1,8 @@
-# Laravel 5 NewRelic Service Provider
+# Laravel 6 NewRelic Service Provider
 
 | Laravel Version | Package Tag | Supported |
 |-----------------|-------------|-----------|
+| 6.x.x | 3.0.x | yes |
 | 5.x.x | 2.2.x | yes |
 | 5.2.x | 2.1.x | yes |
 | 5.1.x | 2.0.x | yes |
